@@ -219,7 +219,7 @@ nav{
     height: 40px;
     border-radius: 50%;
     box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.25);
-    cursor: pointer;jhythg
+    cursor: pointer;
 }
 .icon:hover{
     background: var(--first-color);
