@@ -225,7 +225,7 @@ nav{
     background: var(--first-color);
     
 }
-/* ----- FEATURED IMAGE BOX ----- */
+
 .featured-image{
     display: flex;
     justify-content: right;
@@ -273,7 +273,6 @@ nav{
     font-size: 20px;
 }
 
-/* ----- MAIN BOX ----- */
 .section{
     padding-block: 5em;
 }
@@ -288,7 +287,6 @@ nav{
     width: 50%;
 }
 
-/* -- ## --- RESUABLE CSS -- ## -- */
 .top-header{
     text-align: center;
     margin-bottom: 5em;
