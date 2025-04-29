@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // Typed.js animation
   if (typeof Typed !== "undefined") {
       new Typed(".typedText", {
-          strings: ["a Blockchain Developer", "a Web3 Enthusiast"],
+          strings: [" Nitish Singh","a Blockchain Developer", "a Web3 Enthusiast"],
           typeSpeed: 100,
           backSpeed: 50,
           backDelay: 1500,
